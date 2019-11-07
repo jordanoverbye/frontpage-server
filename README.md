@@ -11,7 +11,7 @@ It uses a very simple in-memory database, so if you restart the server or change
 Clone the repository and run `npm install`
 
 ```
-git clone https://github.com/apollostack/frontpage-server
+git clone https://github.com/apollographql/frontpage-server
 cd frontpage-server
 npm install
 ```
