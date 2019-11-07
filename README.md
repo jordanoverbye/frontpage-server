@@ -2,7 +2,7 @@
 
 The server that is used for the examples on dev.apollodata.com.
 
-This is a really simple GraphQL server that uses [Apollo Server](https://github.com/apollostack/apollo-server) and [GraphQL Tools](https://github.com/apollostack/graphql-tools) to serve a simple schema.
+This is a really simple GraphQL server that uses [Apollo Server](https://github.com/apollographql/apollo-server) and [GraphQL Tools](https://github.com/apollographql/graphql-tools) to serve a simple schema.
 
 It uses a very simple in-memory database, so if you restart the server or change the code, the data will reset.
 
@@ -22,4 +22,4 @@ npm install
 npm start
 ```
 
-The server will run on port 8080. You can change this by editing `server.js`.
+The server will run on port 8090. You can change this by editing `server.js`.
